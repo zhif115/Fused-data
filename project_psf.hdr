@@ -1,0 +1,13 @@
+ENVI
+description = {
+  File Imported into ENVI.}
+samples = 3272
+lines   = 2659
+bands   = 33
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bil
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown

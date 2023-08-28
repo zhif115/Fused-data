@@ -1,0 +1,36 @@
+The data package contains ESTARFM fused NDVI images (JZESTARM1718subset_B1.dat......) using Landsat8 OLI NDVI images (column number: LC8124036, DOYs: 20177310 and 2017342) and MODIS NDVI images (column number: 2017273-2018161,DOYs: 2017273-2018161, a total of 33 images), and the combination data filtered by HANTS ( project_psf.dat) of Jiaozuo City£¬China.
+Data list:
+JZESTARM1718subset_B1.dat
+JZESTARM1718subset_B2.dat
+JZESTARM1718subset_B3.dat
+JZESTARM1718subset_B4.dat
+JZESTARM1718subset_B5.dat
+JZESTARM1718subset_B6.dat
+JZESTARM1718subset_B7.dat
+JZESTARM1718subset_B8.dat
+JZESTARM1718subset_B9.dat
+JZESTARM1718subset_B10.dat
+JZESTARM1718subset_B11.dat
+JZESTARM1718subset_B12.dat
+JZESTARM1718subset_B13.dat
+JZESTARM1718subset_B14.dat
+JZESTARM1718subset_B15.dat
+JZESTARM1718subset_B16.dat
+JZESTARM1718subset_B17.dat
+JZESTARM1718subset_B18.dat
+JZESTARM1718subset_B19.dat
+JZESTARM1718subset_B20.dat
+JZESTARM1718subset_B21.dat
+JZESTARM1718subset_B22.dat
+JZESTARM1718subset_B23.dat
+JZESTARM1718subset_B24.dat
+JZESTARM1718subset_B25.dat
+JZESTARM1718subset_B26.dat
+JZESTARM1718subset_B27.dat
+JZESTARM1718subset_B28.dat
+JZESTARM1718subset_B29.dat
+JZESTARM1718subset_B30.dat
+JZESTARM1718subset_B31.dat
+JZESTARM1718subset_B32.dat
+JZESTARM1718subset_B33.dat
+project_psf.dat

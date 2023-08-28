@@ -1,0 +1,18 @@
+ENVI
+description = {
+ Applied Mask Result [Sun Mar 07 09:23:46 2021]}
+samples = 3272
+lines   = 2659
+bands   = 1
+data type = 2
+interleave = bsq
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+map info = {UTM, 1.000, 1.000, 642645.000, 3932505.000, 3.000000e+001, 3.000000e+001, 49, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_49N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",111.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+band names = {
+ Band 5}
+wavelength units = Unknown
+data ignore value = 0.00000000e+000
+sensor type = Unknown
